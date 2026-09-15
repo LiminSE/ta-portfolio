@@ -1,10 +1,13 @@
-# 技术美术作品集入口
+# about lmse
 
 单页静态网站，通过 B 站官方播放器展示作品集。
 
 - 视频：https://www.bilibili.com/video/BV1nqe766EBq/
-- 计划使用的固定入口：https://about.lmse.design/
+- 固定入口：https://about.lmse.design/
+- 源码：https://github.com/LiminSE/ta-portfolio
 - 托管：GitHub Pages，`main` 分支根目录。
+
+当前主页仅包含标题 `about lmse`、小字 `主页锐意制作中` 和 B 站视频播放器。
 
 ## 修改页面
 
@@ -12,7 +15,7 @@
 
 ## 自定义域名
 
-在仓库 Settings → Pages 中绑定 `about.lmse.design`。DNS 添加记录：
+仓库 Settings → Pages 已绑定 `about.lmse.design`。DNS 已配置记录：
 
 | 类型 | 主机记录 | 记录值 |
 | --- | --- | --- |
